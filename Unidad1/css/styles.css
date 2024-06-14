@@ -1,0 +1,26 @@
+
+body{
+    background-color: rgb(136, 136, 136);
+}
+
+
+h2{
+    font-size: 8 rem;
+    color: #121214;
+    text-align: center;
+    padding: 2 rem;
+}
+
+.yo{
+    width: 10 rem;
+    height: 10 rem;
+    border-radius: 50%;
+}
+.letras{
+    font-size: 10 rem;
+}
+.col-lg-6{
+    font-size: 6 rem;
+    
+
+}
